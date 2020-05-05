@@ -1,0 +1,10 @@
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\ProductDataAccess.dll.config
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\ProductDataAccess.dll
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\ProductDataAccess.pdb
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\EntityFramework.dll
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\EntityFramework.xml
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\obj\Debug\ProductDataAccess.csprojResolveAssemblyReference.cache
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\obj\Debug\ProductDataAccess.dll
+c:\users\hhc.dev\documents\visual studio 2015\Projects\ProductDemoService\ProductDataAccess\obj\Debug\ProductDataAccess.pdb

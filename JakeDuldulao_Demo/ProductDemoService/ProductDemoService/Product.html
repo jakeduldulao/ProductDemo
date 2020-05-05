@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var ulProducts = $("#ulProducts");
+
+            $.ajax({
+                type: 'GET',
+                url: 'api/Products',
+                dataType: 'json',
+                success: function (data) {
+                    // Do the display here
+                }
+            });
+
+        });
+    </script>
+</head>
+<body>
+    <div id="ulProducts"></div>
+</body>
+</html>
